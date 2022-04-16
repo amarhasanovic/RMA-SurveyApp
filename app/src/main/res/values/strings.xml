@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aplikacija za ankete</string>
+    <string name="upisi_me">Upiši me</string>
+
+    <string-array name="filters">
+        <item>Sve moje ankete</item>
+        <item>Sve ankete</item>
+        <item>Urađene ankete</item>
+        <item>Buduće ankete</item>
+        <item>Prošle ankete</item>
+    </string-array>
+</resources>
